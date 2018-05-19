@@ -7,3 +7,9 @@
 	cd to cd ...../Dev/Ashwin/TensorFlow/
 And run source ./bin/activate
 This changes the prompt to the TF dir.
+
+
+
+to start the tensor board
+tensorboard --logdir /Users/swethaashwin/Documents/Dev/Ashwin/TensorFlow/workdir/HW_Digit_Img_Classifier
+

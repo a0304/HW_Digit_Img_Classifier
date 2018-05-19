@@ -1,0 +1,13 @@
+
+HW_Digit_Img_Classifier/.idea/workspace.xml
+.DS_Store
+HW_Digit_Img_Classifier/.idea/HW_Digit_Img_Classifier.iml
+HW_Digit_Img_Classifier/.idea/misc.xml
+HW_Digit_Img_Classifier/.idea/modules.xml
+HW_Digit_Img_Classifier/__pycache__/InputData.cpython-36.pyc
+HW_Digit_Img_Classifier/data/t10k-images-idx3-ubyte.gz
+HW_Digit_Img_Classifier/data/train-images-idx3-ubyte.gz
+HW_Digit_Img_Classifier/data/t10k-labels-idx1-ubyte.gz
+HW_Digit_Img_Classifier/data/train-labels-idx1-ubyte.gz
+HW_Digit_Img_Classifier/events.out.tfevents.1526684091.Swethas-MacBook-Pro.local
+*.local
